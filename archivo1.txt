@@ -1,1 +1,3 @@
 Archivo 1 del proyecto, primera linea de información
+
+Archivo 1 del proyecto, segunda linea de información
